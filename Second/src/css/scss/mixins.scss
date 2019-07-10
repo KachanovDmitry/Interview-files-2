@@ -1,0 +1,24 @@
+h2 {
+	color: $dark;
+	font-family: "Proxima Nova - Black", sans-serif;
+	font-size: 36px;
+	line-height: 30px;
+	font-weight: 900;
+}
+.button {
+	background-color: $button;
+	opacity: 0.84;
+	color: $light;
+	font-family: "Proxima Nova", sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 30px;
+}
+hr {
+	width: 65%;
+	margin: auto;
+	height: 4px;
+	background-color: $line;
+	border: none;
+	
+}
